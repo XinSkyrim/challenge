@@ -34,9 +34,11 @@ At the current stage, the application includes the following pages:
 - Explore
 - Chat
 - Profile
-<img width="676" height="1500" alt="image" src="https://github.com/user-attachments/assets/1ceedf24-6b6c-4a91-8850-a8b1f74bc322" />
-<img width="672" height="1494" alt="image" src="https://github.com/user-attachments/assets/3d18cfcd-0c57-41b3-95c1-a0d9ee091d96" />
-<img width="672" height="1494" alt="image" src="https://github.com/user-attachments/assets/1dc73c4f-445a-4404-90bb-fce6803ca2f0" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/1ceedf24-6b6c-4a91-8850-a8b1f74bc322" width="220" />
+  <img src="https://github.com/user-attachments/assets/3d18cfcd-0c57-41b3-95c1-a0d9ee091d96" width="220" />
+  <img src="https://github.com/user-attachments/assets/1dc73c4f-445a-4404-90bb-fce6803ca2f0" width="220" />
+</p>
 
 These pages are implemented to demonstrate basic UI structure and navigation.
 
@@ -50,5 +52,6 @@ Authentication-related features are not included in the current demo.
 ## Next Steps
 
 The next planned improvement is to fix and complete the user login process, including the authentication flow.
+
 
 
