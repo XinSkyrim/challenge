@@ -25,8 +25,7 @@ flutter pub get
 flutter run
 
 The application can be run on:
-- The web (Flutter Web, e.g. Chrome)
-- A physical Android device
+- The web (Flutter Web, e.g. Chrome) Pixel 7
 
 ## Current Implementation
 
@@ -52,6 +51,7 @@ Authentication-related features are not included in the current demo.
 ## Next Steps
 
 The next planned improvement is to fix and complete the user login process, including the authentication flow.
+
 
 
 
